@@ -3,9 +3,9 @@
 # Site wide configuration
 ####################################
 #
-title: Leonids
+title: night worker
 email:
-description: A simple and awesome blog theme powered by jekyll.
+description: For night Owl
 url:  # the base hostname & protocol for your site
 
 
