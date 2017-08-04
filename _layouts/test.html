@@ -1,25 +1,46 @@
----
-layout: default
----
-{% include p5.html %}
-<a class="btn" href= "{{ site.url }}/" >
-  Home
-</a>
-{% if page.image.feature %}
-<div class="post-image-feature">
-  <img class="feature-image" src=
-  {% if page.image.feature contains 'https' or page.image.feature contains 'http' %}
-  "{{ page.image.feature }}"
-  {% else %}
-  "{{ site.url }}/img/{{ page.image.feature }}"
-  {% endif %}
-  alt="{{ page.title }} feature image">
+<!DOCTYPE html>
+<html lang="en">
 
-  {% if page.image.credit %}
-  <span class="image-credit">Photo Credit: <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a></span>
-  {% endif %}
-</div><!-- /.image-wrap -->
-{% endif %}
+{% include head.html %}
+
+<body>
+  <div class="row">
+    <div class="col s12 m3">
+      <div class="table cover">
+        {% include sidebar.html %}
+      </div>
+    </div>
+    <div class="col s12 m9">
+      <div class="post-listing">
+        {{ content }}
+        <a class="btn" href= "{{ site.url }}/" >
+          Home</a>
+      {% if page.image.feature %}
+        <div class="post-image-feature">
+          <img class="feature-image" src=
+        {% if page.image.feature contains 'https' or page.image.feature contains 'http' %}
+        "{{ page.image.feature }}"
+        {% else %}
+        "{{ site.url }}/img/{{ page.image.feature }}"
+        {% endif %}
+        alt="{{ page.title }} feature image">
+
+      {% if page.image.credit %}
+        <span class="image-credit">Photo Credit: <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a></span>
+      {% endif %}
+      </div><!-- /.image-wrap -->
+      {% endif %}
+      {% include footer.html %}
+      </div>
+    </div>
+  </div>
+  {% include js.html %}
+  {% include p5.html %}
+</body>
+</html>
+
+
+
 
 
 <div id="post">
