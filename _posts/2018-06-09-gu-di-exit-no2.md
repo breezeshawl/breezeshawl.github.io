@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2015-08-18 15:07:19
+title:  "gu.di. 구로디지털단지역 2번 출구!"
+date:   2018-06-09 00:00:00
 categories: [tutorial]
 comments: true
 ---
