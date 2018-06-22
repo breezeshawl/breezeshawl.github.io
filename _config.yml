@@ -3,9 +3,9 @@
 # Site wide configuration
 ####################################
 #
-title: night worker
-email:
-description: For night Owl
+title: Jeonghye-Youn
+email: 
+description: 
 url:  # the base hostname & protocol for your site
 
 
@@ -14,7 +14,7 @@ url:  # the base hostname & protocol for your site
 # Jekyll configuration
 ####################################
 #
-timezone:          Europe/Paris
+timezone:          Asia/Seoul
 markdown:          kramdown
 highlighter:       rouge
 excerpt_separator: <!--more-->
@@ -33,9 +33,9 @@ kramdown:
 ####################################
 #
 owner:
-  name: night worker
+  name: Jeonghye-Youn
   avatar: leonids-logo.png
-  job: "New media Educator"
+  job: "tech / female / education "
   bio: "For night Owl"
   email:
   disqus-shortname:
