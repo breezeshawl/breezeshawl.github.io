@@ -19,6 +19,9 @@ comments: false
 `우리는 지금 여기에 있다.`
 
 
+2018 바림 리서치 레지던시 (광주)
+
+
 <!--more-->
 
 Jekyll also offers powerful support for code snippets:
