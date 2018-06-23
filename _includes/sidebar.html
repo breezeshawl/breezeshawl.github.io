@@ -4,10 +4,10 @@
   {% if author.avatar %}
   <img src="{{ site.url }}/img/{{ author.avatar }}" alt="" class="avatar">
   {% endif %}
-  <a href="{{ site.url }}/" class="author_name">{{ author.name }}</a>
-  <span class="author_job">{{ author.job }}</span>
+  <a href="{{ site.url }}/" class="author_name hidden">{{ author.name }}</a>
+  <span class="author_job hidden">{{ author.job }}</span>
   <span class="author_bio mbm">{{ author.bio }}</span>
-  <nav class="nav">
+  <nav class="nav hidden">
     <ul class="nav-list">
       <li class="nav-item">
         <a href="{{ site.url }}/">intro</a>
