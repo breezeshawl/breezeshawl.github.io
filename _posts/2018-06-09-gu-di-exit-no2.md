@@ -22,7 +22,17 @@ comments: false
 `우리는 지금 여기에 있다.`
 
 
-![Smithsonian Image]({{ site.url }}/img/01/gudi-01-jeonghyeyoun.png)
+
+![Pic]({{ site.url }}/img/01/gudi-01-jeonghyeyoun.jpg)
+
+![Pic]({{ site.url }}/img/01/gudi-02-jeonghyeyoun.jpg)
+
+![Pic]({{ site.url }}/img/01/gudi-03-jeonghyeyoun.jpg)
+
+![Pic]({{ site.url }}/img/01/gudi-04-jeonghyeyoun.jpg)
+
+
+{% include youtubePlayer.html id="VdLwv_WltMI" %}
 
 
 [2018 바림 리서치 레지던시 (광주)](https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FbarimGwangju%2Fposts%2F1666158026838102&width=500)
