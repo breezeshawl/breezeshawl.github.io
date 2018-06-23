@@ -14,10 +14,6 @@ comments: false
 
 `시간선택제. 파트타임(시간제). 경력단절.`
 
-![Smithsonian Image]({{ site.url }}/img/01/gudi-01-jeonghyeyoun.png)
-
-
-
 
 이 작업은 구로디지털단지의 IT 중소기업에서 노동하며 경험한 `왜 특정 직무에만 여성이 많은가?` 라는 의문에서 시작되었다.
 리서치는 여성노동자들의 목소리를 담는 것으로 시작하여 산업구조의 특성과 국가의 정책에 대한 탐색으로 이어졌다.
@@ -26,7 +22,10 @@ comments: false
 `우리는 지금 여기에 있다.`
 
 
-2018 바림 리서치 레지던시 (광주)[바림 리서치 레지던시 (광주)](https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FbarimGwangju%2Fposts%2F1666158026838102&width=500)
+![Smithsonian Image]({{ site.url }}/img/01/gudi-01-jeonghyeyoun.png)
+
+
+[2018 바림 리서치 레지던시 (광주)](https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FbarimGwangju%2Fposts%2F1666158026838102&width=500)
 
 
 
