@@ -25,7 +25,7 @@ comments: false
 `우리는 지금 여기에 있다.`
 
 
-2018 바림 리서치 레지던시 (광주)[link](https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FbarimGwangju%2Fposts%2F1666158026838102&width=500)
+2018 바림 리서치 레지던시 (광주)[바림 리서치 레지던시 (광주)](https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FbarimGwangju%2Fposts%2F1666158026838102&width=500)
 
 
 
