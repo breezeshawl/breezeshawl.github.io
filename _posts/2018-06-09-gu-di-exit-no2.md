@@ -23,13 +23,13 @@ comments: false
 
 
 
-![Pic]({{ site.url }}/img/01/gudi-01-jeonghyeyoun.jpg)
+![Picture 1]({{ site.url }}/img/01/gudi-01-jeonghyeyoun.jpg)
 
-![Pic]({{ site.url }}/img/01/gudi-02-jeonghyeyoun.jpg)
+![Picture 2]({{ site.url }}/img/01/gudi-02-jeonghyeyoun.jpg)
 
-![Pic]({{ site.url }}/img/01/gudi-03-jeonghyeyoun.jpg)
+![Picture 3]({{ site.url }}/img/01/gudi-03-jeonghyeyoun.jpg)
 
-![Pic]({{ site.url }}/img/01/gudi-04-jeonghyeyoun.jpg)
+![Picture 4]({{ site.url }}/img/01/gudi-04-jeonghyeyoun.jpg)
 
 
 {% include youtubePlayer.html id="VdLwv_WltMI" %}
