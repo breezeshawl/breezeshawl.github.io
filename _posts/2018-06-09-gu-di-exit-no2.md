@@ -5,7 +5,7 @@ date:   2018-06-09 00:00:00
 categories: [artwork]
 comments: false
 image:
-  feature: {{ site.url }}/img/01/gudi-01-jeonghyeyoun.png
+  feature: ![Smithsonian Image]({{ site.url }}/img/01/gudi-01-jeonghyeyoun.png)
   credit: jeonghye-youn
 ---
 구로공단. 사라진 옛 공장 터에 디지털복합단지들이 생겨났다. 100만 달러 수출역군들의 빈자리는 또 다른 노동자들이 승계했다. 나란히 늘어선 재봉틀과 작업대 대신 촘촘한 파티션으로 자리가 나뉘었다. 파티션 속 노동자들은 언뜻 같아 보이지만 다른 삯을 가진다. 같은 시간을 들여 일하지만, 삯은 적다. 
