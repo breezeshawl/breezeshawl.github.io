@@ -2,7 +2,7 @@
 layout: post
 title:  "서울예술대학교 코딩랩"
 date:   2017-03-02 00:00:00
-categories: [artwork]
+categories: [work]
 comments: false
 ---
 
@@ -29,9 +29,10 @@ comments: false
 그렇게 코딩해 볼 것이다.
 그리고 각자의 경험 속에서 ‘컴퓨팅’에 대해 스스로 질문하고 생각해 볼 것이다.
 
-`컴퓨터가 어린이들을 프로그래밍 해야 하는가, 아니면 어린이들이 컴퓨터를 프로그래밍해야 하는가?`
-- 시무어 페퍼트(Seymour Papert)
-
+{% raw %}
+컴퓨터가 어린이들을 프로그래밍 해야 하는가, 아니면 어린이들이 컴퓨터를 프로그래밍해야 하는가?
+시무어 페퍼트(Seymour Papert)
+{% endraw %}
 
 
 ![Picture 1]({{ site.url }}/img/01/codinglab-00-jeonghyeyoun.jpg)
