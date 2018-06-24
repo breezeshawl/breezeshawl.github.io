@@ -35,7 +35,7 @@ comments: false
 ![Picture 4]({{ site.url }}/img/02/gudi-04-jeonghyeyoun.jpg)
 
 
-{% include youtubePlayer.html id="VdLwv_WltMI" %}
+{% include youtubePlayer.html id="eaMrIQ9E0gA" %}
 
 
 [2018 바림 리서치 레지던시 (광주)](https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FbarimGwangju%2Fposts%2F1666158026838102&width=500)
