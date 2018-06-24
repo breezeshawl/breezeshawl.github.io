@@ -44,7 +44,7 @@ comments: false
 
 ![Picture 4]({{ site.url }}/img/01/codinglab-03-jeonghyeyoun.jpg)
 
-![Picture 4]({{ site.url }}/img/01/codinglab-04-jeonghyeyoun.jpg)
+![Picture 5]({{ site.url }}/img/01/codinglab-04-jeonghyeyoun.jpg)
 
 [커리큘럼 및 수업 자료](https://www.gitbook.com/book/picxenk/creativecomputing101/details)
 
