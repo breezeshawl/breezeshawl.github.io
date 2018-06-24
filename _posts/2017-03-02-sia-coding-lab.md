@@ -33,7 +33,7 @@ comments: false
 
 `컴퓨터가 어린이들을 프로그래밍 해야 하는가, 아니면 어린이들이 컴퓨터를 프로그래밍해야 하는가? - 시무어 페퍼트(Seymour Papert)`
 
-
+(글, 서울예술대학교 겸임교수 김승범 picxenk@gmail.com)
 
 
 ![Picture 1]({{ site.url }}/img/01/codinglab-00-jeonghyeyoun.jpg)
