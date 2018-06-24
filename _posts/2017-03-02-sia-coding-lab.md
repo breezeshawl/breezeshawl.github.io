@@ -6,6 +6,8 @@ categories: [work]
 comments: false
 ---
 
+본 포스트는 2017년 1학기부터 현재까지 진행중인 서울예술대학교 '창의적 컴퓨팅 입문' 과목의 수업 내용과 교육적 실험을 소개하고 있습니다.
+
 
 `만약 우리 모두가 컴퓨터로 코딩하며 놀 수 있으면 어떻게 될까?`
 
@@ -44,8 +46,6 @@ comments: false
 
 ![Picture 4]({{ site.url }}/img/01/codinglab-04-jeonghyeyoun.jpg)
 
-
-{% include youtubePlayer.html id="VdLwv_WltMI" %}
-
+[커리큘럼 및 수업 자료](https://www.gitbook.com/book/picxenk/creativecomputing101/details)
 
 <!--more-->
