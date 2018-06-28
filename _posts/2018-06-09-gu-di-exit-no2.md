@@ -40,6 +40,8 @@ comments: false
 
 [2018 바림 리서치 레지던시 (광주)](https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FbarimGwangju%2Fposts%2F1666158026838102&width=500)
 
+[네오룩](https://neolook.com/archives/20180610d)
+
 [프로젝트 페이지 'd - 초기화, g - 타이핑, space - 다음페이지 이동'](https://jeonghye-youn.github.io/gu-di.html)
 
 &#42;현재 페이지는 2018 바림 리서치 레지던시 전시용 페이지로서 웹페이지에서 원활히 작동하지 않을 수 있습니다.
