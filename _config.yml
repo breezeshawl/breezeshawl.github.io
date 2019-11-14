@@ -3,7 +3,7 @@
 # Site wide configuration
 ####################################
 #
-title: Jeonghye-Youn
+title: Youn
 email: 
 description: 
 url:  # the base hostname & protocol for your site
@@ -33,10 +33,10 @@ kramdown:
 ####################################
 #
 owner:
-  name: Jeonghye-Youn
+  name: Youn
   avatar: leonids-logo.png
   job: "tech / female / education"
-  bio: "정혜윤"
+  bio: ""
   email:
   disqus-shortname:
   twitter: #username
